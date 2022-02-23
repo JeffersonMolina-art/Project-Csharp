@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\bin\Debug\net6.0\Leer teclado.exe
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\bin\Debug\net6.0\Leer teclado.deps.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\bin\Debug\net6.0\Leer teclado.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\bin\Debug\net6.0\Leer teclado.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\bin\Debug\net6.0\ref\Leer teclado.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\bin\Debug\net6.0\Leer teclado.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\ref\Leer teclado.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Leer teclado\obj\Debug\net6.0\Leer teclado.genruntimeconfig.cache

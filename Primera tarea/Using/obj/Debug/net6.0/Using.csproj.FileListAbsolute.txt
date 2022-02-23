@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\bin\Debug\net6.0\Using.exe
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\bin\Debug\net6.0\Using.deps.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\bin\Debug\net6.0\Using.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\bin\Debug\net6.0\Using.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\bin\Debug\net6.0\ref\Using.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\bin\Debug\net6.0\Using.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\ref\Using.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Using\obj\Debug\net6.0\Using.genruntimeconfig.cache

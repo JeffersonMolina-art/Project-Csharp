@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\bin\Debug\net6.0\Tipos de datos.exe
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\bin\Debug\net6.0\Tipos de datos.deps.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\bin\Debug\net6.0\Tipos de datos.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\bin\Debug\net6.0\Tipos de datos.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\bin\Debug\net6.0\ref\Tipos de datos.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\bin\Debug\net6.0\Tipos de datos.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\ref\Tipos de datos.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Tipos de datos\obj\Debug\net6.0\Tipos de datos.genruntimeconfig.cache

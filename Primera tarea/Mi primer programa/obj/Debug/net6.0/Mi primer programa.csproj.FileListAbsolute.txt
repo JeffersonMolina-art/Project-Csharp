@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\bin\Debug\net6.0\Mi primer programa.exe
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\bin\Debug\net6.0\Mi primer programa.deps.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\bin\Debug\net6.0\Mi primer programa.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\bin\Debug\net6.0\Mi primer programa.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\bin\Debug\net6.0\ref\Mi primer programa.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\bin\Debug\net6.0\Mi primer programa.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\ref\Mi primer programa.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Mi primer programa\obj\Debug\net6.0\Mi primer programa.genruntimeconfig.cache

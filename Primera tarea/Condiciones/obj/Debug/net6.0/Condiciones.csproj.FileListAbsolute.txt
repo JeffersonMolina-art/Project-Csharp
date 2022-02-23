@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\bin\Debug\net6.0\Condiciones.exe
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\bin\Debug\net6.0\Condiciones.deps.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\bin\Debug\net6.0\Condiciones.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\bin\Debug\net6.0\Condiciones.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\bin\Debug\net6.0\ref\Condiciones.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\bin\Debug\net6.0\Condiciones.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\ref\Condiciones.dll
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.pdb
+C:\Users\jeffe\OneDrive\Escritorio\Universidad\Semestre 3 0\Programacion 1\Primera tarea\Condiciones\obj\Debug\net6.0\Condiciones.genruntimeconfig.cache
